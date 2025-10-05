@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
-{int a[100],i,num,n,pos=-1;
+{int a[100],i,n;
  printf("enter the number of how many numbers you add:\n");
  scanf("%d",&n);
  if(n<=0||n>100)
