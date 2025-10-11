@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<string.h>
 int main()
 {int i,j;
  char *ptr[3],str[3][100];
